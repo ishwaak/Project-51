@@ -1,0 +1,30 @@
+.Head
+{
+    border : black;
+    background: grey ;
+    color: red;
+    text-align: center; 
+    display: flex;
+    justify-content: space-between ;   
+}
+.Links
+{
+    display: flex;
+    justify-content: space-around ;
+}
+.pics
+{
+    border: solid;
+    padding:50px;
+    background-color:skyblue;
+    padding-bottom: 50px;
+}
+.ins
+{
+    border: black;
+    text-align: center;
+}
+body
+{
+    background-color:teal ;
+}
